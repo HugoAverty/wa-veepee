@@ -47,6 +47,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +348,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Intro map 3YP"
         }, 
         {
          "name":"script",
