@@ -69,7 +69,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"spaceship.json"
+                 "value":"\/@\/veepee\/brief-virtual-office\/main-map-3yp"
                 }],
          "type":"tilelayer",
          "visible":true,
