@@ -268,6 +268,11 @@
                          "value":"https:\/\/www.youtube.com\/embed\/_i-cUr9NUCs"
                         }, 
                         {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Lien embed YouTube :"
+                        }, 
+                        {
                          "name":"persist",
                          "type":"bool",
                          "value":true
@@ -280,6 +285,12 @@
                  "y":314.014984574703
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
