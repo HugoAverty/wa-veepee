@@ -34,11 +34,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#7E33FF\" }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsiMain"
